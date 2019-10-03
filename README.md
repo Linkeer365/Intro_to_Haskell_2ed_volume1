@@ -1,0 +1,2 @@
+# Intro_to_Haskell_2ed_volume1
+Haskell Snippets for Intro_to_Haskell_2ed_volume1 by ZhangSong
